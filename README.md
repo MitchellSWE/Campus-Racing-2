@@ -1,2 +1,8 @@
 # Campus-Racing-2
-Race around campus to collect coins and the goal of the game is to get the fastest time! The design of the map is a replica of UMASS Dartmouth campus
+The goal of the game is torRace around campus to collect coins and to get the fastest time! The design of the map is a replica of UMASS Dartmouth campus. This game was created using UNITY and Blender.
+
+Created by
+Amani Mitchell
+Hao Fang
+Andi Grozdani
+Jordan Williams
